@@ -18,9 +18,11 @@ PDF/TXT 문서를 요약·비교·목차·하이라이트·Q&A까지 지원하�
 
 2.Ollama + 모델
 Ollama 설치: https://ollama.com/download gemma3:4b
+
 3.Poppler for Windows
 PDF → 이미지 변환용 (pdf2image에서 사용)
 깃헙 릴리즈: https://github.com/oschwartz10612/poppler-windows/releases/
+
 4.Tesseract OCR
 이미지(PDF 스캔본) → 텍스트 인식용
 UB Mannheim 빌드: https://github.com/UB-Mannheim/tesseract/wiki
