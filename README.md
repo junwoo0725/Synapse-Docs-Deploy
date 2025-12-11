@@ -12,7 +12,6 @@ PDF/TXT 문서를 요약·비교·목차·하이라이트·Q&A까지 지원하�
 - Tesseract OCR
 
 ## 설치 방법
-
 1. Python 3.11.9
 공식 사이트: https://www.python.org
 
